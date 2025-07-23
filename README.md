@@ -6,11 +6,11 @@ A Flask-based web application that can detect whether a given URL is a phishing 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/phishing-url-detector.git
+   git clone https://github.com/your-username/Real-time-phishing-URL-detector.git
    ```
 2. Navigate to the project directory:
    ```
-   cd phishing-url-detector
+   cd Real-time-phishing-URL-detector
    ```
 3. Create a virtual environment and activate it:
    ```
